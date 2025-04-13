@@ -1,0 +1,10 @@
+{
+    "require": {
+        "irap/autoloader": "1.0.*",
+        "slim/slim": "^4.14",
+        "programster/abstract-view": "^1.1",
+        "slim/psr7": "^1.7",
+        "google/apiclient": "^2.18",
+        "symfony/dotenv": "^7.2"
+    }
+}
